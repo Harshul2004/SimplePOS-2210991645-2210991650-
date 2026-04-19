@@ -3,8 +3,11 @@
 # Features
 
 🔥 Invoice Generation.
+
 ⚡ Automated Sales Performance Metrics.
-🧠 Real-time Sales .
+
+🧠 Real-time Sales.
+
 🎯 Digital Receipt Generation, Customizable Product listings, and Support for Multiple Printers.
 
 # 🛠️ Tech Stack
