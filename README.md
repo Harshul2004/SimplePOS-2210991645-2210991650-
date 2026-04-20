@@ -43,7 +43,7 @@ SimplePOS/
 cd SimplePOS
 
 # Install dependencies
-npm install .NET Framework
+Install .NET Framework with .NET version 4 or better.
 
 # Usage
 Run the project
